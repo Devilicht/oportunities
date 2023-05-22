@@ -31,7 +31,7 @@ O projeto inclui um Makefile para ajudá-lo a gerenciar tarefas comuns com mais 
 - `make build`: Compile o aplicativo e crie um arquivo executável chamado `oportunities`.
 - `make test`: Executa testes para todos os pacotes do projeto.
 - `make docs`: Gera a documentação da API usando Swag.
-- `make clean`: Remova o executável `gopportunities` e exclua o diretório `./docs`.
+- `make clean`: Remova o executável `oportunities` e exclua o diretório `./docs`.
 
 Para usar esses comandos, basta digitar `make` seguido do comando desejado em seu terminal. Por exemplo:
 
