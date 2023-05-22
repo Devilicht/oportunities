@@ -28,7 +28,7 @@ O projeto inclui um Makefile para ajudá-lo a gerenciar tarefas comuns com mais 
 
 - `make run`: Executa a aplicação sem gerar a documentação da API.
 - `make run-with-docs`: Gere a documentação da API usando o Swag e execute o aplicativo.
-- `make build`: Compile o aplicativo e crie um arquivo executável chamado `gopportunities`.
+- `make build`: Compile o aplicativo e crie um arquivo executável chamado `oportunities`.
 - `make test`: Executa testes para todos os pacotes do projeto.
 - `make docs`: Gera a documentação da API usando Swag.
 - `make clean`: Remova o executável `gopportunities` e exclua o diretório `./docs`.
