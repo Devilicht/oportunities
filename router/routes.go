@@ -1,8 +1,8 @@
 package router
 
 import (
-	docs "github.com/arthur404dev/gopportunities/docs"
-	"github.com/arthur404dev/gopportunities/handler"
+	docs "github.com/Devilicht/oportunities.git/docs"
+	"github.com/Devilicht/oportunities.git/handler"
 	"github.com/gin-gonic/gin"
 	swaggerfiles "github.com/swaggo/files"
 	ginSwagger "github.com/swaggo/gin-swagger"
