@@ -3,7 +3,7 @@ package config
 import (
 	"os"
 
-	"github.com/Devilicht/oportunities/schemas"
+	"github.com/Devilicht/oportunities.git/schemas"
 	"gorm.io/driver/sqlite"
 	"gorm.io/gorm"
 )
